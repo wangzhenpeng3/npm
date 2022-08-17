@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+.github
+example
+test
+storybook-static
+main.ts
+manager.js
+stories
